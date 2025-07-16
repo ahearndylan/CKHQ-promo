@@ -17,13 +17,15 @@ client = tweepy.Client(
 
 # Tweet content
 tweet = """
-🧠 Court Kings Trivia is now live.
+👑🧠 Court Kings Trivia is now live.
 
 Test your NBA knowledge. Earn your place on the leaderboard.
 
 New questions. Live rankings. Instant results.
 
 🔗 https://courtkingshq.onrender.com/trivia
+
+#CourtKingsHQ
 """
 
 # Post tweet

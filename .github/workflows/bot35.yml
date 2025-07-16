@@ -2,7 +2,7 @@ name: Run Main Website Promo
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 8 PM EST = 0:00 UTC (during DST)
+    - cron: '0 21 * * 1'  # 5 PM EST = 21:00 UTC on Mondays
   workflow_dispatch:
 
 jobs:

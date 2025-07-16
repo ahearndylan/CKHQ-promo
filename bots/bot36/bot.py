@@ -24,6 +24,8 @@ Pick your player. Debate the AI. Win the crown.
 Can you outsmart the system?
 
 🔗 https://courtkingshq.onrender.com/offseason
+
+#CourtKingsHQ
 """
 
 # Post tweet

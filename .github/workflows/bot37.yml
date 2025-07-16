@@ -2,7 +2,7 @@ name: Run Trivia Promo
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 8 PM EST = 0:00 UTC (during DST)
+    - cron: '0 21 * * 5'  # 5 PM EST = 21:00 UTC on Fridays
   workflow_dispatch:
 
 jobs:
